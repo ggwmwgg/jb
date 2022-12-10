@@ -1,0 +1,4 @@
+term,definition,mistakes
+Texas,Austin,0
+Florida,Tallahassee,1
+California,Sacramento,1
