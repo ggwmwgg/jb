@@ -37,7 +37,9 @@ You can see the technologies used inside the README.md of each project
 	<summary>SQL with Python</summary>
 	<blockquote>Knowledge of SQL is one of the most important skills required for working with data. SQL is the glue that allows an application to interact with databases and the information they store.</blockquote>
 	<ul style="list-style-type: none">
-		<li><a href="https://github.com/ggwmwgg/jb" target="_blank">Will upload my projects after finishing this track</a></li>
+		<li><a href="https://github.com/ggwmwgg/jb/tree/main/Flashcards_HS" target="_blank">Zookeeper (Easy)</a></li>
+		<li><a href="https://github.com/ggwmwgg/jb/tree/main/Calculator_HS" target="_blank">Simple Chatty Bot (Easy)</a></li>
+		<li><a href="https://github.com/ggwmwgg/jb/tree/main/Easyrider_HS" target="_blank">TO DO List (Challenging)</a></li>
 	<ul>
 </details>
 
