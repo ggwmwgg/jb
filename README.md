@@ -39,7 +39,17 @@ You can see the technologies used inside the README.md of each project
 	<ul style="list-style-type: none">
 		<li><a href="https://github.com/ggwmwgg/jb/tree/main/Flashcards_HS" target="_blank">Zookeeper (Easy)</a></li>
 		<li><a href="https://github.com/ggwmwgg/jb/tree/main/Calculator_HS" target="_blank">Simple Chatty Bot (Easy)</a></li>
+		<li><a href="https://github.com/ggwmwgg/jb/tree/main/Simple_Banking_System_HS" target="_blank">Simple Banking System (Hard)</a></li>
+		<li><a href="https://github.com/ggwmwgg/jb/tree/main/Food_Blog_Backend_HS" target="_blank">Food blog (Challenging)</a></li>
+		<li><a href="https://github.com/ggwmwgg/jb/tree/main/Calculator_for_Investors_HS" target="_blank">Calculator for Investors (Challenging)</a></li>
 		<li><a href="https://github.com/ggwmwgg/jb/tree/main/Easyrider_HS" target="_blank">TO DO List (Challenging)</a></li>
+	<ul>
+</details>
+<details>
+	<summary>My profile</summary>
+	<blockquote>You can view my detailed info on my hyperskill.org profile page.</blockquote>
+	<ul style="list-style-type: none">
+		<li><a href="https://hyperskill.org/profile/283820074" target="_blank">Profile link</a></li>
 	<ul>
 </details>
 
