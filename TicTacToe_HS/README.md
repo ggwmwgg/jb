@@ -4,7 +4,7 @@
 TicTacToe (Console) Game
 
 #### Technologies used:
-- *Python/BeautifulSoup/Requests*
+- *Python*
 
 #### Usage 
 ```
