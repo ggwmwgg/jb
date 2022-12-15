@@ -1,4 +1,4 @@
-## Simple Banking System (from JetBrains Academy)
+## Calculator for Investors (from JetBrains Academy)
 
 #### Program usage: 
 Small program that helps investors make a fundamental analysis based on the company's reports and estimate the company's performance. With this calculator, you can choose the best company in the industry and decide whether to buy its shares or not.
