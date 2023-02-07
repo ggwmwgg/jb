@@ -46,8 +46,18 @@ You can see the technologies used inside the README.md of each project
 	<ul>
 </details>
 <details>
+	<summary>JavaScript for Beginners</summary>
+	<blockquote>My projects from this track listed below.</blockquote>
+	<ul style="list-style-type: none">
+		<li><a href="https://github.com/ggwmwgg/jb/tree/main/Coffee_Machine_JS" target="_blank">Coffee Machine (Challenging)</a></li>
+		<li><a href="https://github.com/ggwmwgg/jb/tree/main/Hangman_JS" target="_blank">Hangman (Hard)</a></li>
+		<li><a href="https://github.com/ggwmwgg/jb/tree/main/Simple_Currency_Converter_JS" target="_blank">Simple Currency Converter (Medium)</a></li>
+		<li><a href="https://github.com/ggwmwgg/jb/tree/main/Zookeeper_JS" target="_blank">Zookeeper (Easy)</a></li>
+	<ul>
+</details>
+<details>
 	<summary>My profile</summary>
-	<blockquote>You can view more detailed info on my hyperskill.org profile page.</blockquote>
+	<blockquote>You can find more detailed info on my hyperskill.org profile page.</blockquote>
 	<ul style="list-style-type: none">
 		<li><a href="https://hyperskill.org/profile/283820074" target="_blank">Profile link</a></li>
 	<ul>
