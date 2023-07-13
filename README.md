@@ -27,22 +27,15 @@ You can see the technologies used inside the README.md of each project
 	<ul>
 </details>
 <details>
-	<summary>Flask Developer</summary>
-	<blockquote>Python is mostly used for building backends, Flask also allows you to create a simple frontend for your app without taking too much effort.</blockquote>
-	<ul style="list-style-type: none">
-		<li><a href="https://github.com/ggwmwgg/jb" target="_blank">Will upload my projects after finishing this track</a></li>
-	<ul>
-</details>
-<details>
 	<summary>SQL with Python</summary>
 	<blockquote>Knowledge of SQL is one of the most important skills required for working with data. SQL is the glue that allows an application to interact with databases and the information they store.</blockquote>
 	<ul style="list-style-type: none">
-		<li><a href="https://github.com/ggwmwgg/jb/tree/main/Flashcards_HS" target="_blank">Zookeeper (Easy)</a></li>
-		<li><a href="https://github.com/ggwmwgg/jb/tree/main/Calculator_HS" target="_blank">Simple Chatty Bot (Easy)</a></li>
+		<li><a href="https://github.com/ggwmwgg/jb/tree/main/Zookeeper_HS" target="_blank">Zookeeper (Easy)</a></li>
+		<li><a href="https://github.com/ggwmwgg/jb/tree/main/SCB_HS" target="_blank">Simple Chatty Bot (Easy)</a></li>
 		<li><a href="https://github.com/ggwmwgg/jb/tree/main/Simple_Banking_System_HS" target="_blank">Simple Banking System (Hard)</a></li>
 		<li><a href="https://github.com/ggwmwgg/jb/tree/main/Food_Blog_Backend_HS" target="_blank">Food blog (Challenging)</a></li>
 		<li><a href="https://github.com/ggwmwgg/jb/tree/main/Calculator_for_Investors_HS" target="_blank">Calculator for Investors (Challenging)</a></li>
-		<li><a href="https://github.com/ggwmwgg/jb/tree/main/Easyrider_HS" target="_blank">TO DO List (Challenging)</a></li>
+		<li><a href="https://github.com/ggwmwgg/jb/tree/main/TO_DO_List_HS" target="_blank">TO DO List (Challenging)</a></li>
 	<ul>
 </details>
 <details>
